@@ -1,0 +1,9 @@
+body{background-color:lightblue}
+      li{color: red;}
+      p{color:blue;}
+      h1{color:green;
+}
+.header{
+    display:flex
+    background-color:pink;
+}
